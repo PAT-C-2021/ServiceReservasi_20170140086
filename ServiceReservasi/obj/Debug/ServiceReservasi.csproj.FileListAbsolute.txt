@@ -1,0 +1,7 @@
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csprojAssemblyReference.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.dll
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 9\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.pdb
